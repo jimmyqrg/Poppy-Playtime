@@ -1,0 +1,209 @@
+.inicio {
+    height: 1295px;
+    background: #375783;;
+    width: 1342px;
+    }
+    .contenedor{
+      display: flex;
+      border-bottom: 2px solid gray;
+      position: fixed;
+      background: #1D2D44;
+      z-index: 1;
+      width: 1350px;
+      top: 0px;
+      bottom: 560px;
+    }
+    .encabezado{
+     display: flex;
+     gap: 40px;
+    }
+    .encabezado img{
+      display: flex;
+      padding: 10px;
+      height:130px; 
+      width:130px;
+      margin-top: -30px;
+    }
+    .encabezado input{
+      height: 23px;
+      margin-top: 35px;
+      background: #324d74;
+      border-radius: 7px;
+      color: white;
+    }
+    
+    .encabezado button{
+      height: 26px;
+      margin-top: 35px;
+      margin-left: 1px;
+      margin-right: 7em;
+      background: #324d74;
+      border-radius: 7px;
+      color: white;
+      padding: 3px 7px;
+    }
+    
+    .lista ul{
+      display: flex;
+      flex-direction: row;
+      gap: 25px;
+      list-style: none;
+      margin-right: 5em;
+      margin-top: 33px;
+      font-size: 19px;
+    }
+    .lista a{
+      text-decoration: none;
+      color: white;
+    }
+    
+    .botones button{
+      margin-top: 33px; 
+      margin-right: 35px;
+      background: gray;
+      border-radius: 5px;
+      font-size: 17px;
+      color: white;
+      cursor: pointer;
+      padding: 5px 5px;
+    }
+    
+    header{
+      border-bottom: 2px solid gray;
+    }
+    .contenido{
+      margin-left: 100px;
+      margin-right: 700px;
+      padding-top: 120px;
+      color: white;
+      font-family: Poppins;
+    }
+.contenido h2{
+  margin-bottom: 30px;
+}
+    .contenido img{
+      height: 300px;
+      width: 500px;
+      border-radius: 10px;
+    }
+    .noticias{
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      left: 730px;
+      top: 180px;
+      padding-left: 10px;
+      
+    }
+    .primero{
+      display: flex;
+      margin-bottom: 30px;
+    }
+    .noticia1 img{
+      height: 120px;
+      width: 140px;
+      border-radius: 8px;
+    }
+    .texto{
+      margin-left: 20px;
+      margin-top: 15px;
+    }
+    .texto{
+      color: white;
+      font-family: Poppins;
+    }
+    .segundo{
+      display: flex;
+      margin-bottom: 30px;
+    }
+    .noticia2 img{
+      height: 130px;
+      width: 140px;
+      border-radius: 8px;
+    }
+    .texto2{
+      margin-left: 20px;
+      margin-top: 15px;
+    }
+    .texto2{
+      color: white;
+      font-family: Poppins;
+    }
+    .tercero{
+      display: flex;
+      margin-bottom: 30px;
+    }
+    .noticia3 img{
+      height: 130px;
+      width: 140px;
+      border-radius: 8px;
+    }
+    .texto3{
+      margin-left: 20px;
+      margin-top: 15px;
+    }
+    .texto3{
+      color: white;
+      font-family: Poppins;
+    }
+    .cuarto{
+      display: flex;
+      margin-bottom: 30px;
+    }
+    .noticia4 img{
+      height: 130px;
+      width: 140px;
+      border-radius: 8px;
+    }
+    .texto4{
+      margin-left: 20px;
+      margin-top: 15px;
+    }
+    .texto4{
+      color: white;
+      font-family: Poppins;
+    }
+    .quinto{
+      display: flex;
+      
+    }
+    .noticia5 img{
+      height: 130px;
+      width: 140px;
+      border-radius: 8px;
+    }
+    .texto5{
+      margin-left: 20px;
+      margin-top: 15px;
+    }
+    .texto5{
+      color: white;
+      font-family: Poppins;
+    }
+    .terminos{
+      margin-left: 60px;
+      margin-top: 30px;
+    }
+    .terminos p{
+      color: white;
+      font-family: Poppins;
+    }
+    .copyright{
+      display: flex;
+      justify-content: center;
+      font-family: Poppins;
+    }
+    .copyright h4{
+      color: white;
+    }
+    .redes li{
+      display: flex;
+      justify-content: right;
+      margin-top: -150px;
+      margin-right: 90px;
+      gap: 20px;
+      font-size: 27px;
+    }
+.redes i{
+  color: white;
+}
